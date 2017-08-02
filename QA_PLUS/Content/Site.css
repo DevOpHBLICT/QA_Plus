@@ -1,0 +1,14 @@
+﻿#Entry_Label, #SearchBox,#SearchButton,#GridView
+{
+   text-align:center;
+   position: center;
+   align-self:center;
+   
+}
+
+#GridView
+{
+    margin:150px;
+    align-content:center;
+}
+
