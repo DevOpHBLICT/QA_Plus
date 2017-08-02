@@ -28,7 +28,7 @@ function OnClick()
 
 
 function CheckTextLength(text, long) {
-    var maxlength = new Number(long); // t Change number to your max length.
+    var maxlength = new Number(long); // tsadfd Change number to your max length.
     if (text.value.length > maxlength) {
         text.value = text.value.substring(0, maxlength);
         alert(" Only " + long + " characters allowed");
